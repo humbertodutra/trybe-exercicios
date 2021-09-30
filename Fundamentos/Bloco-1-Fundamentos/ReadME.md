@@ -1,0 +1,1 @@
+AQui estou aprendendo os fundamentos do bloco 1. QUeria mesmo era está na final da libertadores, porem a cabeça não se pode abaixar, ainda temos inumeras batalhas pela frente. Jesus andou com apenas 12 e só um fraquejou
