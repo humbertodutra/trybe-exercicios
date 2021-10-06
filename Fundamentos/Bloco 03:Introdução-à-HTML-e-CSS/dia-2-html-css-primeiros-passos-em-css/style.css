@@ -1,0 +1,33 @@
+
+      h1 {
+        font-size: 65px;
+        color: orange;
+        font-family: sans-serif;
+      }
+
+      ul {
+        background-color: green;
+
+      }
+
+      .corulp {
+        background-color: aquamarine;
+        font-style:inherit;
+        text-align: center;
+        line-height: 75px;
+        text-decoration-color: aquamarine;
+        color: brown;
+
+
+
+      }
+
+      p {
+        font-weight: 600;
+        font-size: 3em;
+      }
+
+      body {
+        font-size: 16px;
+      }
+ 
